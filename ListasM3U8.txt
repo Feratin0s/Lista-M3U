@@ -1,0 +1,12 @@
+http://iptv.pedrofracassi.me/lista.m3u
+
+Canais Abertos
+https://gist.githubusercontent.com/ryan337/29e76ed198731cd3965d3bda0db10781/raw/6339eb3452e965a36460a9ec9add3726a7e1b31c/Canais.m3u
+
+https://raw.githubusercontent.com/inspirationlinks/m3u/live/pt.m3u8
+
+
+/home/artie/jellyfin/config/IPTV
+
+
+FiEGqc9u!S4jZZG
